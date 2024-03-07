@@ -1,0 +1,20 @@
+1 - O Quê?
+  - Nesta atividade arquitetaremos um Software para a empresa Dosimagem, com o intuito de auxiliá-los no desempenho online da empresa com o pacientes, algo de fácil acesso para todas as idades.
+
+2 - Quem?
+  - Faculdade "Ibmec" Barra x  Empresa "Dosimagem", uma empresa de tecnologia direcionada à medicina oncológica.
+
+3 - Onde?
+  - Faculdade Ibmec - Barra.
+
+4 - Por quê?
+  - Uma atividade de protocooperação entre a Faculdade Ibmec - Barra com a empresa Dosimagem, ao mesmo tempo que os alunos envolvidos ganham mais experiência através do treinamento na área "Front-End", a Dosimagem recebe auxílio na área de programação para atender com mais eficácia seus pacientes.
+
+5 - Quando?
+  - Durante um período semestral, até o término da disciplina "Projeto Front-End".
+
+6 - Como?
+  - React, uma biblioteca de JavaScript que permite a criação de UI's (User Interface) interativas com componentes declarativos. 
+
+7 - Quanto?
+  - O valor é de coração S2
