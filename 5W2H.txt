@@ -4,7 +4,7 @@
   a utilização pelos admnistradores.
 
 2 - Quem?
-  - Faculdade "Ibmec" Barra x  Empresa "Dosimagem", uma empresa de tecnologia direcionada à medicina oncológica.
+  -  O grupo Java F.C. da ibmec barra se encarregará de liderar o projeto para a empresa Dosimagem.
 
 3 - Onde?
   - Faculdade Ibmec - Barra.
