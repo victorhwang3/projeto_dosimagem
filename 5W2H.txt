@@ -1,5 +1,7 @@
-1 - O Quê?
-  - Nesta atividade arquitetaremos um Software para a empresa Dosimagem, com o intuito de auxiliá-los no desempenho online da empresa com o pacientes, algo de fácil acesso para todas as idades.
+ 1- O Quê?
+  Neste projeto desenvolveremos a melhoria no Software da Dosimagem, através de mudanças no Front-End e nos processos internos,
+  buscando melhorar o visual e a eficiência , com um site que contenha informações claras, dessa forma também facilitando 
+  a utilização pelos admnistradores.
 
 2 - Quem?
   - Faculdade "Ibmec" Barra x  Empresa "Dosimagem", uma empresa de tecnologia direcionada à medicina oncológica.
