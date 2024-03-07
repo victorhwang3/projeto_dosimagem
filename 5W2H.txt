@@ -17,4 +17,4 @@
   - React, uma biblioteca de JavaScript que permite a criação de UI's (User Interface) interativas com componentes declarativos. 
 
 7 - Quanto?
-  - O valor é de coração S2
+  - O valor varia de acordo com o número de horas trabalhadas
