@@ -1,0 +1,2 @@
+A empresa Dosimagem(quem?) com quem tivemos uma reuniao em aula basicamente quer uma melhoria na interface de administrador,
+que faça com que alguem que nao domine a tecnolgia consiga utilizar tranquilamente.
