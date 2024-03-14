@@ -29,3 +29,9 @@ Nesse projeto, utilizaremos a linguagem de programação JavaScript e a bibliote
 Quanto?
 Não haverá pagamento nesse projeto, porém há a chance do estudante ser admitido como estagiário da 
 empresa pelo reconhecimento de seu trabalho.
+
+Propósito:
+Em um resumo, o intuito do sistem será a utilização de uma imagem para realizar o processo de calibração para verificar como as máquinas estão funcionando,
+através de cálculos. Depois, a partir dessse processo, verifica imagens de pacientes, processa tudo e envia pela API 
+para o perfil do usuário da clínica.
+Além disso, deve haver uma melhoria no front-end e na eficiência do sistema.
