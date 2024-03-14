@@ -4,7 +4,7 @@ buscando melhorar o visual e a eficiência , com um site que contenha informaç�
 a utilização pelos admnistradores.
 
 Quem?
-Alunos do Ibmec e Clínica Dosimagem.
+pessoas leigas. 
 
 Onde?
 Este projeto será realizado na Faculdade Ibmec-Barra, localizada na cidade do Rio de Janeiro,no Estado do Rio de Janeiro.
