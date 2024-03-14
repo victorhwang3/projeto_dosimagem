@@ -4,7 +4,7 @@ buscando melhorar o visual e a eficiência , com um site que contenha informaç�
 a utilização pelos admnistradores.
 
 Quem?
-pessoas leigas ou com conhecimento em tecnologia
+Para pessoas leigas e com dificuldade de mexer no sistema, e para os funcionarios também, que reclamam da funcionalidade do mesmo
 
 Onde?
 Este projeto será realizado na Faculdade Ibmec-Barra, localizada na cidade do Rio de Janeiro,no Estado do Rio de Janeiro.
