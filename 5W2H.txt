@@ -1,22 +1,37 @@
- 1- O Quê?
-  Neste projeto desenvolveremos a melhoria no Software da Dosimagem, através de mudanças no Front-End e nos processos internos,
-  buscando melhorar o visual e a eficiência , com um site que contenha informações claras, dessa forma também facilitando 
-  a utilização pelos admnistradores.
+ O Quê?
+Neste projeto desenvolveremos a melhoria no Software da Dosimagem, através de mudanças no Front-End e nos processos internos,
+buscando melhorar o visual e a eficiência , com um site que contenha informações claras, dessa forma também facilitando 
+a utilização pelos admnistradores.
 
-2 - Quem?
-  -  O grupo Java F.C. da ibmec barra se encarregará de liderar o projeto para a empresa Dosimagem.
+Quem?
+pessoas leigas ou com conhecimento em tecnologia
 
-3 - Onde?
-  - Faculdade Ibmec - Barra.
+Onde?
+Este projeto será realizado na Faculdade Ibmec-Barra, localizada na cidade do Rio de Janeiro,no Estado do Rio de Janeiro.
 
-4 - Por quê?
-  - Uma atividade de protocooperação entre a Faculdade Ibmec - Barra com a empresa Dosimagem, ao mesmo tempo que os alunos envolvidos ganham mais experiência através do treinamento na área "Front-End", a Dosimagem recebe auxílio na área de programação para atender com mais eficácia seus pacientes.
+Porquê?
+Esse Projeto será realizado com o intuito de integrar empresas e alunos do Ibmec, aumentar o aprendizado dos estudantes
+e a visibilidade das empresas, além, é claro, de dar a oportunidade aos alunos de desenvolver um Software e aumentar 
+seu portfólio.
 
-5 - Quando?
-  - Durante um período semestral, até o término da disciplina "Projeto Front-End".
+Quando?
+O projeto deverá ser realizado no tempo combinado pelas partes envolvidas, evento esse que ainda 
+irá acontecer e deverá ser respeitado pela parte que desnvolve o software, no que tange a não ter atrasos,
+ e pela parte que contrata, no que tange a não tentar mudar o prazo estipulado.
 
-6 - Como?
-  - React, uma biblioteca de JavaScript que permite a criação de UI's (User Interface) interativas com componentes declarativos. 
+Como?
+Para atingir os resultados apontados no tópico " O Quê" ,  o processo ocorrerá da seguinte maneira: a clínica Dosimagem 
+utilizará uma imagem para realizar o processo de calibração para verificar como as máquinas estão funcionando,
+através de cálculos. Depois, a partir dessse processo, verifica imagens de pacientes, processa tudo e envia pela API 
+para o perfil do usuário da clínica.
+Nesse projeto, utilizaremos a linguagem de programação JavaScript e a biblioteca React.
 
-7 - Quanto?
-  - O valor varia de acordo com o número de horas trabalhadas
+Quanto?
+Não haverá pagamento nesse projeto, porém há a chance do estudante ser admitido como estagiário da 
+empresa pelo reconhecimento de seu trabalho.
+
+Propósito:
+Em um resumo, o intuito do sistem será a utilização de uma imagem para realizar o processo de calibração para verificar como as máquinas estão funcionando,
+através de cálculos. Depois, a partir dessse processo, verifica imagens de pacientes, processa tudo e envia pela API 
+para o perfil do usuário da clínica.
+Além disso, deve haver uma melhoria no front-end e na eficiência do sistema.
