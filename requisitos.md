@@ -11,6 +11,6 @@
 3-O sistema deve ser amigável, de forma que seja compreendido e operado tanto por um leigo quanto por uma pessoa experiente na área.
 4-Tendo em vista que é um sistema desenvolvido para a área da Saúde, deve ser um sistema que não sofre latências.Deve ser estável.
 5-Para maior alcance do público, será alcançado por todos os Sistemas Operacionais.
-6-O sistema será desenvolvido em JavaScript, utilizando a biblioteca React.
+6-O sistema utilizará o react, que é uma biblioteca do JavaScript.
 
 
