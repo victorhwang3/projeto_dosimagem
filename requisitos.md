@@ -1,4 +1,4 @@
-﻿
+
 
 **Requisitos Funcionais:**
 
@@ -18,7 +18,7 @@
 
 4-Tendo em mente que o sistema será usado na área da Saúde, ele não deve sofrer latências e deve ser muito estável.
 
-5-Para maior alcance do público, será alcançado por todos os Sistemas Operacionais.
+5-Para maior alcance do público, será alcançado por todos os Sistemas Operacionais, como Android, iOS, macOS e Linux
 
 6-O sistema utilizará o react, que é uma biblioteca do JavaScript.
 
