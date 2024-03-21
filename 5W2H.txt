@@ -4,15 +4,13 @@ buscando melhorar o visual e a eficiência , com um site que contenha informaç�
 a utilização pelos admnistradores.
 
 Quem?
-pessoas leigas ou com conhecimento em tecnologia
+pessoas leigas ou com conhecimento em tecnologia.
 
 Onde?
-Este projeto será realizado na Faculdade Ibmec-Barra, localizada na cidade do Rio de Janeiro,no Estado do Rio de Janeiro.
+O sistema poderá ser utilizado em diversos ambientes, como iphones e androids, e Sistemas Operacionais, como Windows, Linux e Mac.
 
 Porquê?
-Esse Projeto será realizado com o intuito de integrar empresas e alunos do Ibmec, aumentar o aprendizado dos estudantes
-e a visibilidade das empresas, além, é claro, de dar a oportunidade aos alunos de desenvolver um Software e aumentar 
-seu portfólio.
+Já que o sistema é pouco eficiente e possui uma interface pouco amigável, deve haver uma mudança no front end e no fluxo
 
 Quando?
 O projeto deverá ser realizado no tempo combinado pelas partes envolvidas, evento esse que ainda 
