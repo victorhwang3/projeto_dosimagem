@@ -1,6 +1,6 @@
 
 
-**Requisitos Funcionais:**
+## **Requisitos Funcionais:**
 
 1-Melhorar o Front-end da API, de forma que seja amigável para o administrador, algo de fácil uso para todos.
 
@@ -8,7 +8,7 @@
 
 3-O processo de calibração deve ganhar uma nova UX e UI.
 
-**Requisitos Não Funcionais:**
+## **Requisitos Não Funcionais:**
 
 1-Deverá ser garantinda a eficiência do sistema, de forma que a UX seja dinâmica, acessível e facilmente entendida.
 
