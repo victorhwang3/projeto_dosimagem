@@ -2,7 +2,7 @@
 
 **Requisitos Funcionais:**
 
-1-Melhorar o Front-end da API, de forma que seja amigável para o administrador.
+1-Melhorar o Front-end da API, de forma que seja amigável para o administrador, algo de fácil uso para todos.
 
 2-A partir da área da administração, a API da Dosimagem deverá permitir o gerenciamento de clientes e os pedidos dos mesmos.
 
